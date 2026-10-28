@@ -1,8 +1,8 @@
 const express = require('express');
-const app = express();
+const apps = express();
 
-app.get('/', (req, res) => {
-  res.send('Works on my machine.');
+apps.get('/', (req, res) => {
+  res.send('Works on my machine?');
 });
 
-module.exports = app;
+module.exports = apps;
