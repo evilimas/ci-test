@@ -22,6 +22,13 @@
       "when": 1793263853516,
       "tag": "0002_backfill_email_address",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1793264311522,
+      "tag": "0003_previous_harpoon",
+      "breakpoints": true
     }
   ]
 }
