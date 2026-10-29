@@ -28,7 +28,7 @@ app.get('/health', async (req, res) => {
 
     res.status(503).json({
       status: 'error',
-      message: 'Database unavailable',
+      message: 'Database unavailablee',
     });
   }
 });
