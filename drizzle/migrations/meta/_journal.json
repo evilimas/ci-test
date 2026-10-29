@@ -8,6 +8,20 @@
       "when": 1793182336064,
       "tag": "0000_fancy_lady_vermin",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793193863252,
+      "tag": "0001_dapper_tomas",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793194053328,
+      "tag": "0002_backfill_email_adress",
+      "breakpoints": true
     }
   ]
 }
